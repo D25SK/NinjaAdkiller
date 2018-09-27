@@ -1,3 +1,5 @@
+! Title: Ninja Adkiller
+! Homepage: https://github.com/D25SK/NinjaAdkiller/
 masa-mune.jp##div:has-text(この広告は3ヶ月)
 sa-suke.com##div:has-text(この広告は3ヶ月)
 kiyo-masa.com##div:has-text(この広告は3ヶ月)
