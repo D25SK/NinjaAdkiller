@@ -1,342 +1,342 @@
 ! Title: Ninja Adkiller
 ! Homepage: https://github.com/D25SK/NinjaAdkiller/
-masa-mune.jp##div:has-text(この広告は3ヶ月)
-sa-suke.com##div:has-text(この広告は3ヶ月)
-kiyo-masa.com##div:has-text(この広告は3ヶ月)
-mu-sashi.com##div:has-text(この広告は3ヶ月)
-kan-be.com##div:has-text(この広告は3ヶ月)
-yoshi-moto.com##div:has-text(この広告は3ヶ月)
-shikanosuke.net##div:has-text(この広告は3ヶ月)
-kan-suke.com##div:has-text(この広告は3ヶ月)
-katsu-ie.com##div:has-text(この広告は3ヶ月)
-taka-kage.com##div:has-text(この広告は3ヶ月)
-hisa-hide.com##div:has-text(この広告は3ヶ月)
-ken-shin.net##div:has-text(この広告は3ヶ月)
-nobu-naga.net##div:has-text(この広告は3ヶ月)
-ran-maru.net##div:has-text(この広告は3ヶ月)
-yuki-mura.net##div:has-text(この広告は3ヶ月)
-mitsu-nari.com##div:has-text(この広告は3ヶ月)
-naga-masa.com##div:has-text(この広告は3ヶ月)
-maeda-keiji.com##div:has-text(この広告は3ヶ月)
-toshi-ie.com##div:has-text(この広告は3ヶ月)
-yoshi-tsugu.com##div:has-text(この広告は3ヶ月)
-han-be.com##div:has-text(この広告は3ヶ月)
-moto-chika.com##div:has-text(この広告は3ヶ月)
-kage-tora.com##div:has-text(この広告は3ヶ月)
-kage-tsuna.com##div:has-text(この広告は3ヶ月)
-kane-tsugu.com##div:has-text(この広告は3ヶ月)
-sa-kon.net##div:has-text(この広告は3ヶ月)
-shimazu-yoshihiro.net##div:has-text(この広告は3ヶ月)
-ie-yasu.com##div:has-text(この広告は3ヶ月)
-nao-shige.com##div:has-text(この広告は3ヶ月)
-katsu-yori.com##div:has-text(この広告は3ヶ月)
-shin-gen.jp##div:has-text(この広告は3ヶ月)
-fuma-kotaro.com##div:has-text(この広告は3ヶ月)
-kojyuro.com##div:has-text(この広告は3ヶ月)
-hide-yoshi.net##div:has-text(この広告は3ヶ月)
-uji-masa.com##div:has-text(この広告は3ヶ月)
-ken-nyo.com##div:has-text(この広告は3ヶ月)
-tada-katsu.com##div:has-text(この広告は3ヶ月)
-mitsu-hide.com##div:has-text(この広告は3ヶ月)
-moto-nari.com##div:has-text(この広告は3ヶ月)
-dousetsu.com##div:has-text(この広告は3ヶ月)
-ame-zaiku.com##div:has-text(この広告は3ヶ月)
-ari-jigoku.com##div:has-text(この広告は3ヶ月)
-bake-neko.net##div:has-text(この広告は3ヶ月)
-bakufu.org##div:has-text(この広告は3ヶ月)
-biroudo.jp##div:has-text(この広告は3ヶ月)
-butanishinju.com##div:has-text(この広告は3ヶ月)
-chagasi.com##div:has-text(この広告は3ヶ月)
-chikouyore.com##div:has-text(この広告は3ヶ月)
-chimanako.net##div:has-text(この広告は3ヶ月)
-choitoippuku.com##div:has-text(この広告は3ヶ月)
-chottu.net##div:has-text(この広告は3ヶ月)
-dayuh.net##div:has-text(この広告は3ヶ月)
-dokkoisho.com##div:has-text(この広告は3ヶ月)
-dotera.net##div:has-text(この広告は3ヶ月)
-doumeki.com##div:has-text(この広告は3ヶ月)
-edo-jidai.com##div:has-text(この広告は3ヶ月)
-ehoh.net##div:has-text(この広告は3ヶ月)
-futene.net##div:has-text(この広告は3ヶ月)
-ganriki.net##div:has-text(この広告は3ヶ月)
-gionsyouja.com##div:has-text(この広告は3ヶ月)
-gosyuugi.com##div:has-text(この広告は3ヶ月)
-hanabie.com##div:has-text(この広告は3ヶ月)
-hanagasumi.net##div:has-text(この広告は3ヶ月)
-hannnari.com##div:has-text(この広告は3ヶ月)
-hiroimon.com##div:has-text(この広告は3ヶ月)
-hisyaku.com##div:has-text(この広告は3ヶ月)
-horemitakotoka.com##div:has-text(この広告は3ヶ月)
-houkou-onchi.com##div:has-text(この広告は3ヶ月)
-ho-zuki.com##div:has-text(この広告は3ヶ月)
-ichiya-boshi.net##div:has-text(この広告は3ヶ月)
-iinaa.net##div:has-text(この広告は3ヶ月)
-iiyudana.net##div:has-text(この広告は3ヶ月)
-ikidane.com##div:has-text(この広告は3ヶ月)
-imawamukashi.com##div:has-text(この広告は3ヶ月)
-imodurushiki.com##div:has-text(この広告は3ヶ月)
-ina-ka.com##div:has-text(この広告は3ヶ月)
-is-mine.net##div:has-text(この広告は3ヶ月)
-iza-yoi.net##div:has-text(この広告は3ヶ月)
-jyoukamachi.com##div:has-text(この広告は3ヶ月)
-kacchaokkana.com##div:has-text(この広告は3ヶ月)
-kachoufuugetu.net##div:has-text(この広告は3ヶ月)
-kagechiyo.net##div:has-text(この広告は3ヶ月)
-kakukaku-sikajika.com##div:has-text(この広告は3ヶ月)
-kasabuta.net##div:has-text(この広告は3ヶ月)
-kasajizo.com##div:has-text(この広告は3ヶ月)
-kenkenpa.net##div:has-text(この広告は3ヶ月)
-kesagiri.net##div:has-text(この広告は3ヶ月)
-kibisuwokaesu.com##div:has-text(この広告は3ヶ月)
-kinbyoubu.com##div:has-text(この広告は3ヶ月)
-kinugoshi.net##div:has-text(この広告は3ヶ月)
-koborezakura.com##div:has-text(この広告は3ヶ月)
-konjiki.jp##div:has-text(この広告は3ヶ月)
-maiougi.com##div:has-text(この広告は3ヶ月)
-ma-jide.com##div:has-text(この広告は3ヶ月)
-makibisi.net##div:has-text(この広告は3ヶ月)
-mameshibori.net##div:has-text(この広告は3ヶ月)
-manjushage.com##div:has-text(この広告は3ヶ月)
-mitarashidango.com##div:has-text(この広告は3ヶ月)
-mizusasi.net##div:has-text(この広告は3ヶ月)
-monogoshi.com##div:has-text(この広告は3ヶ月)
-moraimon.com##div:has-text(この広告は3ヶ月)
-moutounai.com##div:has-text(この広告は3ヶ月)
-nagesen.net##div:has-text(この広告は3ヶ月)
-nekonikoban.org##div:has-text(この広告は3ヶ月)
-nemachinotsuki.com##div:has-text(この広告は3ヶ月)
-nemiminimizu.com##div:has-text(この広告は3ヶ月)
-nigamushi.net##div:has-text(この広告は3ヶ月)
-ninja-web.net##div:has-text(この広告は3ヶ月)
-noppikinaranu.com##div:has-text(この広告は3ヶ月)
-nukarumi.net##div:has-text(この広告は3ヶ月)
-obihimo.com##div:has-text(この広告は3ヶ月)
-obijime.net##div:has-text(この広告は3ヶ月)
-odaikansama.com##div:has-text(この広告は3ヶ月)
-ofuregaki.com##div:has-text(この広告は3ヶ月)
-ohitashi.com##div:has-text(この広告は3ヶ月)
-ohyakudo-mairi.com##div:has-text(この広告は3ヶ月)
-oiran.org##div:has-text(この広告は3ヶ月)
-okoshi-yasu.net##div:has-text(この広告は3ヶ月)
-okunohosomichi.net##div:has-text(この広告は3ヶ月)
-omegumi.com##div:has-text(この広告は3ヶ月)
-onasake.com##div:has-text(この広告は3ヶ月)
-ongaeshi.biz##div:has-text(この広告は3ヶ月)
-onushimowaruyonou.com##div:has-text(この広告は3ヶ月)
-ooban-koban.com##div:has-text(この広告は3ヶ月)
-oteage.net##div:has-text(この広告は3ヶ月)
-otodo.net##div:has-text(この広告は3ヶ月)
-sannasubi.com##div:has-text(この広告は3ヶ月)
-sara-yashiki.com##div:has-text(この広告は3ヶ月)
-sengoku-jidai.com##div:has-text(この広告は3ヶ月)
-sensyuuraku.com##div:has-text(この広告は3ヶ月)
-sessya.net##div:has-text(この広告は3ヶ月)
-shakunage.net##div:has-text(この広告は3ヶ月)
-shikisokuzekuu.net##div:has-text(この広告は3ヶ月)
-shime-saba.com##div:has-text(この広告は3ヶ月)
-shimo-yake.com##div:has-text(この広告は3ヶ月)
-shirikakusazu.com##div:has-text(この広告は3ヶ月)
-shironuri.com##div:has-text(この広告は3ヶ月)
-shisyou.com##div:has-text(この広告は3ヶ月)
-shiteyattari.com##div:has-text(この広告は3ヶ月)
-siromuku.com##div:has-text(この広告は3ヶ月)
-sokushinbutsu.com##div:has-text(この広告は3ヶ月)
-soragoto.net##div:has-text(この広告は3ヶ月)
-soudesune.net##div:has-text(この広告は3ヶ月)
-suki-ari.net##div:has-text(この広告は3ヶ月)
-sukimakaze.com##div:has-text(この広告は3ヶ月)
-syarasoujyu.com##div:has-text(この広告は3ヶ月)
-syogyoumujou.com##div:has-text(この広告は3ヶ月)
-takara-bune.net##div:has-text(この広告は3ヶ月)
-tenohiragaeshi.com##div:has-text(この広告は3ヶ月)
-tobiiro.jp##div:has-text(この広告は3ヶ月)
-tyanoyu.net##div:has-text(この広告は3ヶ月)
-tyonmage.com##div:has-text(この広告は3ヶ月)
-ukime.org##div:has-text(この広告は3ヶ月)
-undeinosa.com##div:has-text(この広告は3ヶ月)
-untokosho.com##div:has-text(この広告は3ヶ月)
-usunuri.com##div:has-text(この広告は3ヶ月)
-uunyan.com##div:has-text(この広告は3ヶ月)
-warabimochi.net##div:has-text(この広告は3ヶ月)
-warabuki.net##div:has-text(この広告は3ヶ月)
-waremowaremoto.com##div:has-text(この広告は3ヶ月)
-wa-sanbon.com##div:has-text(この広告は3ヶ月)
-yahansugi.com##div:has-text(この広告は3ヶ月)
-yakiin.net##div:has-text(この広告は3ヶ月)
-yangotonaki.com##div:has-text(この広告は3ヶ月)
-yohamanzokuja.com##div:has-text(この広告は3ヶ月)
-yokochou.com##div:has-text(この広告は3ヶ月)
-yomibitoshirazu.com##div:has-text(この広告は3ヶ月)
-yukimizake.net##div:has-text(この広告は3ヶ月)
-yumenogotoshi.com##div:has-text(この広告は3ヶ月)
-zatunen.com##div:has-text(この広告は3ヶ月)
-tuzikaze.com##div:has-text(この広告は3ヶ月)
-yu-yake.com##div:has-text(この広告は3ヶ月)
-choumusubi.com##div:has-text(この広告は3ヶ月)
-yokinihakarae.com##div:has-text(この広告は3ヶ月)
-kagebo-shi.com##div:has-text(この広告は3ヶ月)
-iaigiri.com##div:has-text(この広告は3ヶ月)
-gouketu.com##div:has-text(この広告は3ヶ月)
-kumadori.com##div:has-text(この広告は3ヶ月)
-michikusa.jp##div:has-text(この広告は3ヶ月)
-syoutikubai.com##div:has-text(この広告は3ヶ月)
-hatiju-hatiya.com##div:has-text(この広告は3ヶ月)
-oboroduki.com##div:has-text(この広告は3ヶ月)
-tamajiri.com##div:has-text(この広告は3ヶ月)
-cyber-ninja.jp##div:has-text(この広告は3ヶ月)
-gozaru.jp##div:has-text(この広告は3ヶ月)
-ohugi.com##div:has-text(この広告は3ヶ月)
-rakugan.com##div:has-text(この広告は3ヶ月)
-tsunokakushi.com##div:has-text(この広告は3ヶ月)
-suppa.jp##div:has-text(この広告は3ヶ月)
-tonosama.jp##div:has-text(この広告は3ヶ月)
-karou.jp##div:has-text(この広告は3ヶ月)
-cho-chin.com##div:has-text(この広告は3ヶ月)
-shidareyanagi.com##div:has-text(この広告は3ヶ月)
-yaekumo.com##div:has-text(この広告は3ヶ月)
-nobody.jp##div:has-text(この広告は3ヶ月)
-konohashigure.com##div:has-text(この広告は3ヶ月)
-yamanoha.com##div:has-text(この広告は3ヶ月)
-ohaguro.com##div:has-text(この広告は3ヶ月)
-makibishi.jp##div:has-text(この広告は3ヶ月)
-turubeotoshi.com##div:has-text(この広告は3ヶ月)
-nabebugyou.com##div:has-text(この広告は3ヶ月)
-amigasa.jp##div:has-text(この広告は3ヶ月)
-atukan.com##div:has-text(この広告は3ヶ月)
-chakin.com##div:has-text(この広告は3ヶ月)
-ikaduchi.com##div:has-text(この広告は3ヶ月)
-ninpou.jp##div:has-text(この広告は3ヶ月)
-yakigote.com##div:has-text(この広告は3ヶ月)
-tsuchigumo.com##div:has-text(この広告は3ヶ月)
-gamagaeru.jp##div:has-text(この広告は3ヶ月)
-goemonburo.com##div:has-text(この広告は3ヶ月)
-tumabeni.com##div:has-text(この広告は3ヶ月)
-higoyomi.com##div:has-text(この広告は3ヶ月)
-komusou.jp##div:has-text(この広告は3ヶ月)
-obunko.com##div:has-text(この広告は3ヶ月)
-tyabo.com##div:has-text(この広告は3ヶ月)
-momijioroshi.com##div:has-text(この広告は3ヶ月)
-gejigeji.jp##div:has-text(この広告は3ヶ月)
-kemuridama.com##div:has-text(この広告は3ヶ月)
-mikosi.com##div:has-text(この広告は3ヶ月)
-tutakazura.com##div:has-text(この広告は3ヶ月)
-hanamizake.com##div:has-text(この広告は3ヶ月)
-darumaotosi.com##div:has-text(この広告は3ヶ月)
-kyarame.com##div:has-text(この広告は3ヶ月)
-hishaku.com##div:has-text(この広告は3ヶ月)
-kirisute-gomen.com##div:has-text(この広告は3ヶ月)
-wakatono.jp##div:has-text(この広告は3ヶ月)
-hariko.com##div:has-text(この広告は3ヶ月)
-tuzigiri.com##div:has-text(この広告は3ヶ月)
-karakuri-yashiki.com##div:has-text(この広告は3ヶ月)
-osonae.com##div:has-text(この広告は3ヶ月)
-syanari.com##div:has-text(この広告は3ヶ月)
-chitosedori.com##div:has-text(この広告は3ヶ月)
-mukade.jp##div:has-text(この広告は3ヶ月)
-hahaue.com##div:has-text(この広告は3ヶ月)
-ninja-mania.jp##div:has-text(この広告は3ヶ月)
-genin.jp##div:has-text(この広告は3ヶ月)
-kurushiunai.jp##div:has-text(この広告は3ヶ月)
-hujibakama.com##div:has-text(この広告は3ヶ月)
-zashiki.com##div:has-text(この広告は3ヶ月)
-kusakage.com##div:has-text(この広告は3ヶ月)
-yukishigure.com##div:has-text(この広告は3ヶ月)
-xxxxxxxx.jp##div:has-text(この広告は3ヶ月)
-tirirenge.com##div:has-text(この広告は3ヶ月)
-jounin.jp##div:has-text(この広告は3ヶ月)
-aikotoba.jp##div:has-text(この広告は3ヶ月)
-shinobiashi.com##div:has-text(この広告は3ヶ月)
-koiwazurai.com##div:has-text(この広告は3ヶ月)
-onmitsu.jp##div:has-text(この広告は3ヶ月)
-suichu-ka.com##div:has-text(この広告は3ヶ月)
-kimodameshi.com##div:has-text(この広告は3ヶ月)
-yukigesho.com##div:has-text(この広告は3ヶ月)
-byoubu.com##div:has-text(この広告は3ヶ月)
-uijin.com##div:has-text(この広告は3ヶ月)
-tubakurame.com##div:has-text(この広告は3ヶ月)
-jougennotuki.com##div:has-text(この広告は3ヶ月)
-zouri.jp##div:has-text(この広告は3ヶ月)
-kuchinawa.com##div:has-text(この広告は3ヶ月)
-huruike.com##div:has-text(この広告は3ヶ月)
-hanagumori.com##div:has-text(この広告は3ヶ月)
-karakasa.com##div:has-text(この広告は3ヶ月)
-mizubasyou.com##div:has-text(この広告は3ヶ月)
-soregashi.com##div:has-text(この広告は3ヶ月)
-enokorogusa.com##div:has-text(この広告は3ヶ月)
-hatagashira.com##div:has-text(この広告は3ヶ月)
-yakiuchi.com##div:has-text(この広告は3ヶ月)
-hiyamugi.com##div:has-text(この広告は3ヶ月)
-shiriagari.com##div:has-text(この広告は3ヶ月)
-kutinawa.com##div:has-text(この広告は3ヶ月)
-moryou.com##div:has-text(この広告は3ヶ月)
-kagennotuki.com##div:has-text(この広告は3ヶ月)
-bokunenjin.com##div:has-text(この広告は3ヶ月)
-nengu.jp##div:has-text(この広告は3ヶ月)
-garyoutensei.com##div:has-text(この広告は3ヶ月)
-tanmono.com##div:has-text(この広告は3ヶ月)
-ifdef.jp##div:has-text(この広告は3ヶ月)
-karamatu.com##div:has-text(この広告は3ヶ月)
-sonnabakana.com##div:has-text(この広告は3ヶ月)
-ojaru.jp##div:has-text(この広告は3ヶ月)
-ebo-shi.com##div:has-text(この広告は3ヶ月)
-ootugomori.com##div:has-text(この広告は3ヶ月)
-kanpaku.jp##div:has-text(この広告は3ヶ月)
-turukusa.com##div:has-text(この広告は3ヶ月)
-husuma.com##div:has-text(この広告は3ヶ月)
-nomaki.jp##div:has-text(この広告は3ヶ月)
-kakurezato.com##div:has-text(この広告は3ヶ月)
-client.jp##div:has-text(この広告は3ヶ月)
-okoshi-yasu.com##div:has-text(この広告は3ヶ月)
-omiki.com##div:has-text(この広告は3ヶ月)
-kitunebi.com##div:has-text(この広告は3ヶ月)
-nukenin.jp##div:has-text(この広告は3ヶ月)
-toumoku.com##div:has-text(この広告は3ヶ月)
-yamagomori.com##div:has-text(この広告は3ヶ月)
-akazunoma.com##div:has-text(この広告は3ヶ月)
-tiyogami.com##div:has-text(この広告は3ヶ月)
-tudura.com##div:has-text(この広告は3ヶ月)
-ashigaru.jp##div:has-text(この広告は3ヶ月)
-shichihuku.com##div:has-text(この広告は3ヶ月)
-inukubou.com##div:has-text(この広告は3ヶ月)
-kaginawa.jp##div:has-text(この広告は3ヶ月)
-turigane.com##div:has-text(この広告は3ヶ月)
-at-ninja.jp##div:has-text(この広告は3ヶ月)
-tabigeinin.com##div:has-text(この広告は3ヶ月)
-huuryuu.com##div:has-text(この広告は3ヶ月)
-buzama.com##div:has-text(この広告は3ヶ月)
-harisen.jp##div:has-text(この広告は3ヶ月)
-okitsune.com##div:has-text(この広告は3ヶ月)
-jorougumo.com##div:has-text(この広告は3ヶ月)
-otoshiana.com##div:has-text(この広告は3ヶ月)
-kanashibari.jp##div:has-text(この広告は3ヶ月)
-namidaame.com##div:has-text(この広告は3ヶ月)
-bufsiz.jp##div:has-text(この広告は3ヶ月)
-onushi.com##div:has-text(この広告は3ヶ月)
-kusarikatabira.jp##div:has-text(この広告は3ヶ月)
-sankinkoutai.com##div:has-text(この広告は3ヶ月)
-namekuji.jp##div:has-text(この広告は3ヶ月)
-donburako.com##div:has-text(この広告は3ヶ月)
-yukihotaru.com##div:has-text(この広告は3ヶ月)
-jakou.com##div:has-text(この広告は3ヶ月)
-nukimi.com##div:has-text(この広告は3ヶ月)
-o-oku.jp##div:has-text(この広告は3ヶ月)
-ohuda.com##div:has-text(この広告は3ヶ月)
-goraikou.com##div:has-text(この広告は3ヶ月)
-kumogakure.com##div:has-text(この広告は3ヶ月)
-gokenin.com##div:has-text(この広告は3ヶ月)
-izakamakura.com##div:has-text(この広告は3ヶ月)
-otogirisou.com##div:has-text(この広告は3ヶ月)
-syuriken.jp##div:has-text(この広告は3ヶ月)
-sodenoshita.com##div:has-text(この広告は3ヶ月)
-sokowonantoka.com##div:has-text(この広告は3ヶ月)
-sarashi.com##div:has-text(この広告は3ヶ月)
-hagewasi.com##div:has-text(この広告は3ヶ月)
-himegimi.jp##div:has-text(この広告は3ヶ月)
-hebiichigo.com##div:has-text(この広告は3ヶ月)
-amearare.com##div:has-text(この広告は3ヶ月)
-nusutto.jp##div:has-text(この広告は3ヶ月)
-syakuhati.com##div:has-text(この広告は3ヶ月)
-ninja-x.jp##div:has-text(この広告は3ヶ月)
-ushimairi.com##div:has-text(この広告は3ヶ月)
-yu-nagi.com##div:has-text(この広告は3ヶ月)
-the-ninja.jp##div:has-text(この広告は3ヶ月)
+masa-mune.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sa-suke.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kiyo-masa.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+mu-sashi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kan-be.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yoshi-moto.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shikanosuke.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kan-suke.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+katsu-ie.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+taka-kage.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hisa-hide.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ken-shin.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nobu-naga.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ran-maru.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yuki-mura.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+mitsu-nari.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+naga-masa.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+maeda-keiji.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+toshi-ie.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yoshi-tsugu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+han-be.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+moto-chika.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kage-tora.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kage-tsuna.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kane-tsugu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sa-kon.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shimazu-yoshihiro.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ie-yasu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nao-shige.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+katsu-yori.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shin-gen.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+fuma-kotaro.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kojyuro.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hide-yoshi.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+uji-masa.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ken-nyo.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tada-katsu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+mitsu-hide.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+moto-nari.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+dousetsu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ame-zaiku.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ari-jigoku.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+bake-neko.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+bakufu.org##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+biroudo.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+butanishinju.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+chagasi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+chikouyore.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+chimanako.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+choitoippuku.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+chottu.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+dayuh.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+dokkoisho.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+dotera.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+doumeki.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+edo-jidai.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ehoh.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+futene.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ganriki.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+gionsyouja.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+gosyuugi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hanabie.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hanagasumi.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hannnari.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hiroimon.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hisyaku.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+horemitakotoka.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+houkou-onchi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ho-zuki.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ichiya-boshi.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+iinaa.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+iiyudana.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ikidane.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+imawamukashi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+imodurushiki.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ina-ka.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+is-mine.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+iza-yoi.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+jyoukamachi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kacchaokkana.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kachoufuugetu.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kagechiyo.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kakukaku-sikajika.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kasabuta.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kasajizo.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kenkenpa.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kesagiri.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kibisuwokaesu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kinbyoubu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kinugoshi.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+koborezakura.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+konjiki.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+maiougi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ma-jide.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+makibisi.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+mameshibori.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+manjushage.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+mitarashidango.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+mizusasi.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+monogoshi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+moraimon.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+moutounai.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nagesen.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nekonikoban.org##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nemachinotsuki.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nemiminimizu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nigamushi.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ninja-web.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+noppikinaranu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nukarumi.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+obihimo.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+obijime.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+odaikansama.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ofuregaki.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ohitashi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ohyakudo-mairi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+oiran.org##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+okoshi-yasu.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+okunohosomichi.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+omegumi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+onasake.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ongaeshi.biz##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+onushimowaruyonou.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ooban-koban.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+oteage.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+otodo.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sannasubi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sara-yashiki.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sengoku-jidai.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sensyuuraku.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sessya.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shakunage.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shikisokuzekuu.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shime-saba.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shimo-yake.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shirikakusazu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shironuri.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shisyou.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shiteyattari.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+siromuku.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sokushinbutsu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+soragoto.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+soudesune.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+suki-ari.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sukimakaze.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+syarasoujyu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+syogyoumujou.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+takara-bune.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tenohiragaeshi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tobiiro.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tyanoyu.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tyonmage.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ukime.org##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+undeinosa.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+untokosho.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+usunuri.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+uunyan.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+warabimochi.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+warabuki.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+waremowaremoto.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+wa-sanbon.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yahansugi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yakiin.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yangotonaki.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yohamanzokuja.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yokochou.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yomibitoshirazu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yukimizake.net##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yumenogotoshi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+zatunen.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tuzikaze.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yu-yake.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+choumusubi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yokinihakarae.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kagebo-shi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+iaigiri.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+gouketu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kumadori.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+michikusa.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+syoutikubai.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hatiju-hatiya.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+oboroduki.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tamajiri.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+cyber-ninja.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+gozaru.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ohugi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+rakugan.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tsunokakushi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+suppa.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tonosama.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+karou.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+cho-chin.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shidareyanagi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yaekumo.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nobody.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+konohashigure.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yamanoha.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ohaguro.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+makibishi.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+turubeotoshi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nabebugyou.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+amigasa.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+atukan.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+chakin.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ikaduchi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ninpou.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yakigote.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tsuchigumo.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+gamagaeru.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+goemonburo.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tumabeni.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+higoyomi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+komusou.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+obunko.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tyabo.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+momijioroshi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+gejigeji.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kemuridama.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+mikosi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tutakazura.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hanamizake.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+darumaotosi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kyarame.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hishaku.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kirisute-gomen.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+wakatono.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hariko.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tuzigiri.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+karakuri-yashiki.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+osonae.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+syanari.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+chitosedori.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+mukade.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hahaue.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ninja-mania.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+genin.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kurushiunai.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hujibakama.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+zashiki.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kusakage.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yukishigure.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+xxxxxxxx.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tirirenge.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+jounin.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+aikotoba.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shinobiashi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+koiwazurai.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+onmitsu.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+suichu-ka.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kimodameshi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yukigesho.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+byoubu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+uijin.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tubakurame.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+jougennotuki.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+zouri.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kuchinawa.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+huruike.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hanagumori.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+karakasa.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+mizubasyou.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+soregashi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+enokorogusa.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hatagashira.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yakiuchi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hiyamugi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shiriagari.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kutinawa.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+moryou.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kagennotuki.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+bokunenjin.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nengu.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+garyoutensei.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tanmono.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ifdef.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+karamatu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sonnabakana.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ojaru.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ebo-shi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ootugomori.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kanpaku.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+turukusa.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+husuma.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nomaki.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kakurezato.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+client.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+okoshi-yasu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+omiki.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kitunebi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nukenin.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+toumoku.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yamagomori.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+akazunoma.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tiyogami.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tudura.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ashigaru.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+shichihuku.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+inukubou.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kaginawa.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+turigane.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+at-ninja.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+tabigeinin.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+huuryuu.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+buzama.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+harisen.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+okitsune.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+jorougumo.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+otoshiana.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kanashibari.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+namidaame.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+bufsiz.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+onushi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kusarikatabira.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sankinkoutai.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+namekuji.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+donburako.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yukihotaru.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+jakou.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nukimi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+o-oku.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ohuda.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+goraikou.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+kumogakure.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+gokenin.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+izakamakura.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+otogirisou.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+syuriken.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sodenoshita.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sokowonantoka.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+sarashi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hagewasi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+himegimi.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+hebiichigo.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+amearare.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+nusutto.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+syakuhati.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ninja-x.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+ushimairi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+yu-nagi.com##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
+the-ninja.jp##DIV[style="display: inline-block; position: relative; z-index: 9999;"]
